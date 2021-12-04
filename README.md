@@ -25,3 +25,4 @@ print('{:.2f}'.format(l))
 
 ### RESULT:
 
+Thus the distance between two points has been calculated.
